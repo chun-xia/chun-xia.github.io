@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Chun Liu",
-    "label": "Sales Assistant",
+    "label": "Office Assistant",
     "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAboAAAAJDgxOGQ2ZGE0LWM2ZjgtNDE4Mi05ZTc4LWU1YzNiMTM1Njk4MQ.jpg",
     "email": "clinvegas@hotmail.com",
     "phone": "(702) 339-2012",
-    "website": "http://chun-xia.github.io/resume/annie_resume.html",
+    "website": "http://chun-xia.github.io/resume/index.html",
     "summary": "",
     "location": {
       "address": "",
@@ -28,7 +28,7 @@
       "position": "Dealer",
       "website": "http://www.wynnlasvegas.com",
       "startDate": "2008-02-10",
-      "endDate": "2016-03-29",
+      "endDate": "2018-03-23",
       "summary": "",
       "highlights": []
     },
@@ -54,8 +54,17 @@
       "company": "Stone Group Co.",
       "position": "Accountant Assistant",
       "website": "http://en.hongxingstone.com",
-      "startDate": "2002-05-30",
-      "endDate": "1995-06-24",
+      "startDate": "1995-06-24",
+      "endDate": "2002-05-30",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Jinpeng Law Office",
+      "position": "Legal Assistant",
+      "website": "http://www.kingpound.com/",
+      "startDate": "1993-04-10",
+      "endDate": "1995-06-10",
       "summary": "",
       "highlights": []
     }
