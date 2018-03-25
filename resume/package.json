@@ -1,0 +1,19 @@
+{
+  "lockfileVersion": 1,
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "The package.json for my JSON resume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "resume test resume.json",
+    "clean": "rm -rf build",
+    "build": "mkdir -p build",
+    "html": "npm run-script build; resume export -t elegant build/resume.html",
+    "pdf": "npm run-script build; resume export -t onepage build/resume.pdf",
+    "all": "npm run-script html; npm run-script pdf",
+    "view_html": "open build/resume.html",
+    "view_pdf": "open build/resume.pdf"
+  },
+  "author": "Chunxia Liu",
+  "license": "ISC"
+}

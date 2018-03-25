@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Chun Liu",
-    "label": "Office Assistant",
+    "name": "Chunxia Liu",
+    "label": "",
     "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAboAAAAJDgxOGQ2ZGE0LWM2ZjgtNDE4Mi05ZTc4LWU1YzNiMTM1Njk4MQ.jpg",
     "email": "clinvegas@hotmail.com",
     "phone": "(702) 339-2012",
     "website": "http://chun-xia.github.io/resume/index.html",
-    "summary": "",
+    "summary": "I'm a highly motivated and determined team player seeking an opportunity to apply my years of office and customer service experience to help my co-workers and employer succeed.",
     "location": {
       "address": "",
       "postalCode": "94612",
@@ -29,7 +29,7 @@
       "website": "http://www.wynnlasvegas.com",
       "startDate": "2008-02-10",
       "endDate": "2018-03-23",
-      "summary": "",
+      "summary": "Opened and prepared game table, confirmed and counted contents, and verified final count with floor manager. Closed game, sorted cards, balanced rack, counted chips and signed off with supervisor.",
       "highlights": []
     },
     {
@@ -38,7 +38,7 @@
       "website": "https://www.mgmgrand.com/en.html",
       "startDate": "2003-03-05",
       "endDate": "2008-02-10",
-      "summary": "",
+      "summary": "Controlled and maintained the pace of games. Educated new players about the rules, policies, and procedures of games. Ensured order and security of the game and players involved.",
       "highlights": []
     },
     {
@@ -47,7 +47,7 @@
       "website": "http://www.suncoastcasino.com",
       "startDate": "2003-07-18",
       "endDate": "2002-06-14",
-      "summary": "",
+      "summary": "Exchanged money for playing chips. Ensured that cards and equipment used in games were in good condition. Reported and mitigated disputes. Upheld the integrity of assigned games. Disbursed winnings and collected losing bets according to the rules and procedures of the specific game.",
       "highlights": []
     },
     {
@@ -56,7 +56,7 @@
       "website": "http://en.hongxingstone.com",
       "startDate": "1995-06-24",
       "endDate": "2002-05-30",
-      "summary": "",
+      "summary": "Drafted and prepared bank documents, account receivables, and office budgets. Tracked and managed expenditures and payments. Organized and maintained company accounting records. Analyzed and reconciled client and vendor accounts. Assisted in the preparation of the corporate tax filing.",
       "highlights": []
     },
     {
@@ -65,11 +65,10 @@
       "website": "http://www.kingpound.com/",
       "startDate": "1993-04-10",
       "endDate": "1995-06-10",
-      "summary": "",
+      "summary": "Prepared and revised legal documents for attorneys. Conducted legal research. Scheduled appointments, interviewed clients, and took meeting notes. Reviewed and submitted client billing. Managed court calendars, scheduled trials, and hearings.",
       "highlights": []
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Wynn Hotel",
@@ -118,6 +117,16 @@
         "Client Relations",
         "Excellent Communication"
       ]
+    },
+    {
+      "name": "Software",
+      "level": "Intermediate",
+      "keywords": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Google Docs",
+        "Sketch"
+      ] 
     }
   ],
   "languages": [
@@ -132,18 +141,16 @@
   ],
   "interests": [
     {
-      "name": "Fashion",
-      "keywords": [
-        "",
-        ""
-      ]
+      "name": "Fashion"
     },
     {
-      "name": "Business",
-      "keywords": [
-        ""
-      ]
+      "name": "Business"
+    },
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Languages"
     }
-  ],
-  "references": []
+  ]
 }
